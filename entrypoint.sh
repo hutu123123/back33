@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env bash
 # 其他Paas保活
-PAAS1=https://web-zfag13aeds.b4a.run/
+PAAS1=https://green-block-9784.fdhggsdffhg.workers.dev/
 PAAS2=
 PAAS3=
 
